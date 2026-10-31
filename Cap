@@ -2,13 +2,13 @@
   {
     "appName": "InShot",
     "packageName": "com.camerasideas.instashot",
-    "versionCode": 1507,
+    "versionCode": 1517,
     "updateUrl": "https://Telegram.me/EpicModder",
     "title": "App Has Expired",
     "description": "Your app version is too old and no longer supported. Please update to the latest version.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2027-09-01",
+    "expiryDate": "2024-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
