@@ -6,8 +6,8 @@
     "updateUrl": "@ahmed_fo6",
     "title": "App Has Expired",
     "description": ".",
-    "isForce": folse,
-    "isExpired": folse ,
+    "isForce": troe,
+    "isExpired": troe ,
     "expiryDate": "2024-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
