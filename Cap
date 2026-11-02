@@ -8,7 +8,7 @@
     "description": ".",
     "isForce": folse ,
     "isExpired": folse ,
-    "expiryDate": "2024-09-01",
+    "expiryDate": "2027-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
