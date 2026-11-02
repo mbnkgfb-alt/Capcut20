@@ -2,12 +2,12 @@
   {
     "appName": "InShot",
     "packageName": "com.camerasideas.instashot",
-    "versionCode": 1517,
+    "versionCode": 1507,
     "updateUrl": "@ahmed_fo6",
     "title": "App Has Expired",
     "description": ".",
-    "isForce": troe,
-    "isExpired": troe ,
+    "isForce": folse ,
+    "isExpired": folse ,
     "expiryDate": "2024-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
