@@ -6,9 +6,9 @@
     "updateUrl": "https://t.me/officialSNMods",
     "title": "App Has Expired",
     "description": ".",
-    "isForce": true ,
-    "isExpired":true  ,
-    "expiryDate": "2024-09-01",
+    "isForce": folse ,
+    "isExpired":folse  ,
+    "expiryDate": "2027-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update"
   }
